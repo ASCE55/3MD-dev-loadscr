@@ -8,12 +8,12 @@ var staff_team = [
 		"rank":"Owner"
 	},
 	{
-		"name":"LOAFER",
+		"name":"egpersion",
 		"image":"https://forum.cfx.re/user_avatar/forum.cfx.re/warspidy/288/6188599_2.png",
 		"rank":"Owner"
 	},
     {
-		"name":" G H O S T _ T N ",
+		"name":" egpersion ",
 		"image":"",
 		"rank":"Owner"
 	}
