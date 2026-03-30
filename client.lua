@@ -1,0 +1,5 @@
+AddEventHandler("playerSpawned", function()
+    print("3Monkey Dev - Loading Screen Off ")
+    ShutdownLoadingScreen()
+    ShutdownLoadingScreenNui()
+end)
